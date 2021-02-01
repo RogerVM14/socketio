@@ -1,0 +1,4 @@
+node_modules/
+
+git config --global user.email "roger.vazquez14@gmail.com.com"
+  git config user.name "RogerVM14"
